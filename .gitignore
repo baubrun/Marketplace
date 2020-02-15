@@ -1,0 +1,4 @@
+/node_modules
+.env
+/Prac
+makeFakeData.js
